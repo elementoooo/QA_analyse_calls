@@ -10,7 +10,7 @@ from openpyxl.styles import (
 from openpyxl.utils import get_column_letter
 
 # -------- INIT CLIENT -------- #
-client = genai.Client(api_key="AIzaSyBlyznmQPALtTZaRhlf2SchMmuHM_rD76M")
+client = genai.Client(api_key="urkey")
 
 # -------- PALETTE -------- #
 DARK_NAVY   = "1B2A4A"
