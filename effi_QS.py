@@ -7,7 +7,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Alignment, Font, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 
-client = genai.Client(api_key="AIzaSyBlyznmQPALtTZaRhlf2SchMmuHM_rD76M")
+client = genai.Client(api_key="urkey")
 
 # ── PALETTE ──────────────────────────────────────────────────────────────────
 DARK_NAVY   = "1B2A4A"
